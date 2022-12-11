@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="FST Module1 Assignment">
+  <test name="Computer Demo">
+	  <classes>
+		  <class name="com.ibm.fst1.TC04_ComputerDatabase"/>
+	  </classes>
+  </test> <!-- Test -->
+   <test name="SauceLab">
+	  <classes>
+		  <class name="com.ibm.fst1.TC05_SauceLabDemo"/>
+	  </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
